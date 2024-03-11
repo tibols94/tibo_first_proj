@@ -1,0 +1,32 @@
+{
+  "name": "@tibols94/tibo_first_proj",
+  "version": "1.0.0",
+  "description": "my frist project to do something",
+  "main": "./bin/index.js",
+  "bin": {
+    "translate": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "Error no test script specified"
+  },
+  "keywords": [
+    "cli",
+    "translate",
+    "nodejs"
+  ],
+  "author": "https://github.com/tibo_first_proj",
+  "license": "MIT",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^7.0.0",
+    "colorette": "^2.0.16",
+    "inquirer": "^8.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tibols94/tibo_first_proj.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tibols94/tibo_first_proj/issues"
+  },
+  "homepage": "https://github.com/tibols94/tibo_first_proj"
+}
